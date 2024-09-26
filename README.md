@@ -125,6 +125,4 @@ git branch
 git checkout v1
 git branch -d <nombre_apellidos_v2>
 git push origin --delete <nombre_apellidos_v2>
-git branch -d <nombre_apellidos_v3>
-git push origin --delete <nombre_apellidos_v3>
 ~~~
