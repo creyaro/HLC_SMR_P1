@@ -119,7 +119,7 @@ git log -- <nombre-archivo>                           # Filtra commits por archi
 git branch
 ~~~
 
-2. A continuación, vamos a eliminar las rama v2 y v3. Para ello tenemos que estar en otra rama que no sea ninguna de ellas, como v1.
+2. A continuación, vamos a eliminar las rama v2. Para ello tenemos que estar en otra rama que no sea ninguna de ellas, como v1.
 
 ~~~
 git checkout v1
